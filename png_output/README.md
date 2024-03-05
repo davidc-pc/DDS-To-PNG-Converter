@@ -1,1 +1,0 @@
-This will be the output of the ddsToPNG.py file
